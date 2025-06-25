@@ -5,9 +5,13 @@ An interactive R Shiny dashboard leveraging shinydashboard, ggplot2, and plotly 
 This project is structured into four components and leverages data visualization and statistical exploration techniques in R Shiny to analyze relationships between air pollution, climate change, forest coverage, and human health outcomes. The goal is to provide interactive insights into how these environmental factors interrelate across global regions, especially in large and industrially significant countries.
 ________________________________________
 **Data Sources**
+
 •	Our World in Data –  https://ourworldindata.org/air-pollution
+
 •	Our World in Data – https://ourworldindata.org/air-pollution#air-pollution-is-one-of-the-world-s-leading-riskfactors-for-death analysis
+
 •	IMF Climate Data - https://climatedata.imf.org/pages/climatechange-data
+
 •	Worldometers –  https://www.worldometers.info/geography/largest-countries-in-the-world/
 ________________________________________
 **1. Data Preparation and Cleaning**
