@@ -16,6 +16,7 @@ ________________________________________
 ________________________________________
 **1. Data Preparation and Cleaning**
 Datasets used:
+
 •	Air Quality Index (AQI) values from a global air pollution dataset.
 
 •	Death percentage from air pollution from the Our World in Data repository.
@@ -61,6 +62,7 @@ ________________________________________
 **3. Interactive Dashboard in R Shiny**
 The R Shiny dashboard was developed using shinydashboard, ggplot2, and plotly to enable user-driven exploration. It features seven dynamic visualizations, organized across sidebar menu tabs:
 KPI Visualizations:
+
 •	AQI Bar Chart: Displays average air pollution by country (top 30 largest countries).
 
 •	Death % Over Time: Line chart for mortality trends from pollution in G20 countries.
