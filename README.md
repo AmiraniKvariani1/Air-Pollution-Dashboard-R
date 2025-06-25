@@ -94,6 +94,8 @@ Below is a list of files included in this project. To run the analysis script, p
 
 •	**Environmental_Impact_Dashboard.R** – R script used in this project (created in R Studio)
 
+•	**Shuny_App_Vusualizations_Summary** - PDF version of the output results and an overview
+
 •	**Forest_and_Carbon.CSV** – Carbon dataset in CSV
 
 •	**Global_Air_Pollution_dataset.CSV** – Air pollution dataset in CSV
