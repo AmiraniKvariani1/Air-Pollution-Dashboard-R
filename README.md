@@ -102,9 +102,8 @@ Below is a list of files included in this project. To run the analysis script, p
 
 •	**Share-Deaths-Air-Pollution.CSV** - Deaths due to air Pollution dataset in CSV
 
-•	**Annual_Surface_Temperature_Change** - Annual surface temperature change dataset in CSV
+•	**Annual_Surface_Temperature_Change.CSV** - Annual surface temperature change dataset in CSV
 
-•	**Annual_Surface_Temperature_Change** - Annual surface temperature change dataset in CSV
 
 •	**README.PDF** - PDF version of REAMDE file
 
