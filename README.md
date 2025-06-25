@@ -94,7 +94,7 @@ Below is a list of files included in this project. To run the analysis script, p
 
 •	**Environmental_Impact_Dashboard.R** – R script used in this project (created in R Studio)
 
-•	**Shuny_App_Vusualizations_Summary** - PDF version of the output results and an overview
+•	**Shuny_App_Vusualizations_Summary** - PDF version of the output results (all visualizations from Shiny App interactive dashboard) and an overview
 
 •	**Forest_and_Carbon.CSV** – Dataset containing forest coverage and carbon emission data (CSV)
 
@@ -103,7 +103,6 @@ Below is a list of files included in this project. To run the analysis script, p
 •	**Share-Deaths-Air-Pollution.CSV** -  Dataset with global air pollution indicators (CSV)
 
 •	**Annual_Surface_Temperature_Change.CSV** - Dataset showing yearly surface temperature changes by country (CSV)
-
 
 •	**README.PDF** - PDF version of REAMDE file
 
