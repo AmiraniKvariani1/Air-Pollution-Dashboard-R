@@ -96,13 +96,13 @@ Below is a list of files included in this project. To run the analysis script, p
 
 •	**Shuny_App_Vusualizations_Summary** - PDF version of the output results and an overview
 
-•	**Forest_and_Carbon.CSV** – Carbon dataset in CSV
+•	**Forest_and_Carbon.CSV** – Dataset containing forest coverage and carbon emission data (CSV)
 
-•	**Global_Air_Pollution_dataset.CSV** – Air pollution dataset in CSV
+•	**Global_Air_Pollution_dataset.CSV** –  Dataset with global air pollution indicators (CSV)
 
-•	**Share-Deaths-Air-Pollution.CSV** - Deaths due to air Pollution dataset in CSV
+•	**Share-Deaths-Air-Pollution.CSV** -  Dataset with global air pollution indicators (CSV)
 
-•	**Annual_Surface_Temperature_Change.CSV** - Annual surface temperature change dataset in CSV
+•	**Annual_Surface_Temperature_Change.CSV** - Dataset showing yearly surface temperature changes by country (CSV)
 
 
 •	**README.PDF** - PDF version of REAMDE file
