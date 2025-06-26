@@ -90,6 +90,7 @@ ________________________________________
 •	The dashboard allows users to interactively compare environmental indicators across countries and time periods to support deeper exploration.
 ________________________________________
 **5. Project Files**
+
 Below is a list of files included in this project. To run the analysis script, please download the files and adjust the file paths accordingly. Otherwise, a PDF version of the output results is available for review.
 
 •	**Environmental_Impact_Dashboard.R** – R script used in this project (created in R Studio)
